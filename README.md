@@ -1,3 +1,4 @@
 # git_test
 
-A collection fo Odin Project projects
+A collection of Odin Project projects.
+Hello Odin!
